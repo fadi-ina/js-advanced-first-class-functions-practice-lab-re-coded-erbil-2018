@@ -1,4 +1,4 @@
-// Code your solution in this file!
+// this is for rand ...
 
 const logDriverNames = function (drivers) {
   drivers.forEach(function (driver) {
